@@ -6,7 +6,7 @@ Bb3 g5
 d4 b4
 Ne2 a5
 a3 exd4
-Nexd4bxa3
+Nexd4 bxa3
 Rxa3 Bb4+
 Bd2 Na6
 Ra4 Nc5
@@ -18,8 +18,8 @@ Nxc6 Qc7
 O-O Qxc6
 Ba4 Bxc4
 Bxc6+ Kf8
-Rxa8+ Kg7
-Bxg5+ Nxg5
+Rxa8+ Kf7
+Nxg5+ Nxg5
 Qe8+ 1-0
 
 W:Hiro B:Himanshu0614
