@@ -1,0 +1,36 @@
+1. e4 e5 2. Nf3 Nc6 3. d3 d5 4. Nc3 d4 5. Nb5 $6 Bg4 6. Be2 a6 7. Na3 Bxf3 8.
+Bxf3 Bxa3 9. bxa3 Qd6 10. Bb2 O-O-O 11. O-O Kb8 12. Qd2 $6 Kc8 $2 13. Rac1 $6 h5 14.
+Qg5 Qe6 15. Bxh5 g6 $4 16. Bg4 f5 17. Bh3 $9 Rh5 $4 18. Qg3 $9 Kb8 19. c3 dxc3 $2 20.
+Rxc3 $9 Nd4 $1 21. Re1 $6 Rh7 $2 22. Rc5 Qb6 23. Qxe5 $4 Qxb2 24. Qxc7+ $6 Rxc7 25. Rxc7
+Kxc7 0-1
+
+[Event "Play vs Bot"]
+[Site "Chess.com"]
+[Date "2024.05.21"]
+[Round "-"]
+[White "hiro591"]
+[Black "Antonio-BOT"]
+[Result "0-1"]
+[CurrentPosition "3r2n1/1pk5/p5p1/5p2/3nP3/P2P3B/Pq3PPP/4R1K1 w - - 0 26"]
+[Timezone "UTC"]
+[ECO "C44"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Variation-2...Nc6-3.d3"]
+[UTCDate "2024.05.21"]
+[UTCTime "14:56:28"]
+[WhiteElo "966"]
+[BlackElo "1500"]
+[TimeControl "-"]
+[Termination "Antonio-BOT won by resignation"]
+[StartTime "14:56:28"]
+[EndDate "2024.05.21"]
+[EndTime "15:11:25"]
+[Link "https://www.chess.com/analysis/game/computer/127146001?tab=analysis&move=49"]
+[WhiteUrl "https://images.chesscomfiles.com/uploads/v1/user/318075203.2ed18cb9.50x50o.e3ffd9a04356.jpg"]
+[WhiteCountry "78"]
+[WhiteTitle ""]
+[BlackUrl "https://images.chesscomfiles.com/uploads/v1/user/66746046.ef0d9811.50x50o.5d780b060b66.png"]
+[BlackCountry "109"]
+[BlackTitle ""]
+
+
+
