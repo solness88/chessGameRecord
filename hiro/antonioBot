@@ -1,8 +1,28 @@
-1. e4 e5 2. Nf3 Nc6 3. d3 d5 4. Nc3 d4 5. Nb5 $6 Bg4 6. Be2 a6 7. Na3 Bxf3 8.
-Bxf3 Bxa3 9. bxa3 Qd6 10. Bb2 O-O-O 11. O-O Kb8 12. Qd2 $6 Kc8 $2 13. Rac1 $6 h5 14.
-Qg5 Qe6 15. Bxh5 g6 $4 16. Bg4 f5 17. Bh3 $9 Rh5 $4 18. Qg3 $9 Kb8 19. c3 dxc3 $2 20.
-Rxc3 $9 Nd4 $1 21. Re1 $6 Rh7 $2 22. Rc5 Qb6 23. Qxe5 $4 Qxb2 24. Qxc7+ $6 Rxc7 25. Rxc7
-Kxc7 0-1
+1. e4 e5 
+2. Nf3 Nc6
+3. d3 d5 
+4. Nc3 d4 
+5. Nb5 Bg4 
+6. Be2 a6 
+7. Na3 Bxf3 
+8. Bxf3 Bxa3 
+9. bxa3 Qd6 
+10. Bb2 O-O-O 
+11. O-O Kb8 
+12. Qd2 Kc8 
+13. Rac1 h5 
+14. Qg5 Qe6 
+15. Bxh5 g6 
+16. Bg4 f5 
+17. Bh3 Rh5 
+18. Qg3 Kb8 
+19. c3 dxc3 
+20. Rxc3 Nd4 
+21. Re1 Rh7 
+22. Rc5 Qb6 
+23. Qxe5 Qxb2 
+24. Qxc7+ Rxc7 
+25. Rxc7 Kxc7 0-1
 
 [Event "Play vs Bot"]
 [Site "Chess.com"]
