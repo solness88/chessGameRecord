@@ -1,0 +1,38 @@
+1. e4 e5 
+2. Nf3 Nc6 
+3. Bc4 Bb4?!(Nf6) 
+4. c3 Ba5 
+5. d4 d6 
+6. b4 Bb6 
+7. Bg5 Nf6 
+8. O-O Bg4?(h6) 
+9. h3 Be6??(Bxf3) 
+10. Bb5 O-O??(a6) 
+11. Nbd2 a6 
+12. Ba4 a5??(exd4) 
+13. a3 axb4?!(exd4) 
+14. axb4 Qd7??(exd4) 
+15. d5 Nd8??(Nxd5) 
+16. Bxd7 1-0
+
+[Event "rated rapid game"]
+[Site "https://lichess.org/GfVM4ZA6"]
+[Date "2024.05.26"]
+[White "P13IAN"]
+[Black "hiro246"]
+[Result "1-0"]
+[GameId "GfVM4ZA6"]
+[UTCDate "2024.05.26"]
+[UTCTime "11:06:50"]
+[WhiteElo "1569"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-196"]
+[Variant "Standard"]
+[TimeControl "480+10"]
+[ECO "C50"]
+[Opening "Italian Game"]
+[Termination "Normal"]
+
+
+

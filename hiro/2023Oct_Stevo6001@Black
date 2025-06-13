@@ -1,0 +1,44 @@
+1. d4 d5 
+2. c4 Nf6 
+3. e3 Bf5 
+4. cxd5 Qxd5 
+5. Nc3 Qa5 
+6. Bd2 c5?!(Qb6) 
+7. Qb3 Qc7 
+8. dxc5 e6?!(a6) 
+9. Bb5+ Nc6 
+10. Nge2 Be7 
+11. Bxc6+ Qxc6 
+12. Qc4 O-O 
+13. O-O Rad8 
+14. Nd4 Ne4??(Qxc5)
+        1-0
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2023.10.25"]
+[Round "-"]
+[White "Stevo6001"]
+[Black "hiro591"]
+[Result "1-0"]
+[CurrentPosition "3r1rk1/pp2bppp/2q1p3/2P2b2/2QNn3/2N1P3/PP1B1PPP/R4RK1 w - - 6 15"]
+[Timezone "UTC"]
+[ECO "D06"]
+[ECOUrl "https://www.chess.com/openings/Queens-Gambit-Declined-Marshall-Defense"]
+[UTCDate "2023.10.25"]
+[UTCTime "10:50:02"]
+[WhiteElo "903"]
+[BlackElo "800"]
+[TimeControl "1/86400"]
+[Termination "Stevo6001 won by resignation"]
+[StartTime "10:50:02"]
+[EndDate "2023.10.30"]
+[EndTime "09:11:34"]
+[Link "https://www.chess.com/analysis/game/daily/577207947?tab=analysis&move=0"]
+[WhiteUrl "https://images.chesscomfiles.com/uploads/v1/user/77291250.d38e8f68.50x50o.47f9784b33f0.jpeg"]
+[WhiteCountry "164"]
+[WhiteTitle ""]
+[BlackUrl "https://images.chesscomfiles.com/uploads/v1/user/318075203.2ed18cb9.50x50o.e3ffd9a04356.jpg"]
+[BlackCountry "78"]
+[BlackTitle ""]
+
