@@ -1,0 +1,65 @@
+1. e4 e5 
+2. Nf3 Nf6 
+3. Nc3 Nc6 
+4. Bc4 Be7 
+5. d4 exd4 
+6. Nxd4 Nxd4 
+7. Qxd4 c5 
+8. Qe3 Qa5 
+9. O-O?!(e5) O-O 
+10. Bd2?(e5) Qc7 
+11. Rae1?(e5) d6 
+12. Nd5?(f4) Nxd5 
+13. Bxd5 h6 
+14. Bc3 Be6 
+15. Qg3 g5 
+16. f4 Bxd5 
+17. exd5 f6 
+18. Qd3?(fxg5) Kh8 
+19. Qg6 Rae8 
+20. Qxh6+ Kg8 
+21. Qg6+ Kh8 
+22. Re3 Qd7 
+23. Rh3+ Qxh3 
+24. gxh3 Rc8 
+25. h4?(LC:fxg5) Rcd8 
+26. h5 Rde8 
+27. h6 Rf7 
+28. Qxf7 Rg8 
+29. h7 Rg7 
+30. Bxf6 Bxf6 
+31. Qxf6 Kxh7 
+32. fxg5 c4 
+33. Qh6+ Kg8 
+34. g6 b6 
+35. Rf5 a5 
+36. Rh5 Kf8 
+37. Qh8+ Rg8 
+38. g7+ Ke7 
+39. Qxg8 Kf6 
+40. Qf8+ Kg6 
+41. g8=Q+ Kxh5 
+42. Qh8+ Kg5 
+43. Qhf6+ Kh5 
+44. Q8g7 b5 
+45. Qfh6# 1-0
+
+
+[Event "casual correspondence game"]
+[Site "https://lichess.org/12JXR0Nl"]
+[Date "2025.06.15"]
+[White "hiro246"]
+[Black "lichess AI level 3"]
+[Result "1-0"]
+[GameId "12JXR0Nl"]
+[UTCDate "2025.06.15"]
+[UTCTime "02:13:46"]
+[WhiteElo "1425"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C47"]
+[Opening "Four Knights Game: Italian Variation"]
+[Termination "Normal"]
+
+
